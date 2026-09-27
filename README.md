@@ -4,6 +4,8 @@
 
 <samp>im 16 years old</samp>
 
+<p><samp>I love making web apps and interactive experiences.<br />I'm especially into building Telegram Mini Apps (TMA) and figuring out how all the pieces of a full-stack app fit together.<br />I'm learning something new with every project, and that's one of my favorite parts of coding</samp></p>
+
 <h3><samp>Stacks:</samp></h3>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -18,8 +20,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Telegram Mini Apps](https://img.shields.io/badge/Telegram_Mini_Apps-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-### <samp>Languages</samp>
+
+<h3><samp>Languages:</samp></h3>
 
 <samp>Russian: C2</samp>
 
 <samp>English: B1</samp>
+
+---
+
+[![Contact me on Telegram](https://img.shields.io/badge/Contact_me_on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/byebakov)
