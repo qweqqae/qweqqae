@@ -1,5 +1,3 @@
-![Animated header](header.gif)
-
 <h2><samp>Hello, I'm Igor Byebakov.</samp><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="32" height="32" alt="Octocat" align="right" hspace="12" /></h2>
 
 <samp>im 16 years old</samp>
