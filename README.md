@@ -2,7 +2,7 @@
 
 <samp>im 16 years old</samp>
 
-<p><samp>I love making web apps and interactive experiences.<br />I'm especially into building Telegram Mini Apps (TMA) and figuring out how all the pieces of a full-stack app fit together.<br />I'm learning something new with every project, and that's one of my favorite parts of coding</samp></p>
+<p><samp>I love making web apps and interactive experiences.<br />I'm especially into building Telegram Mini Apps (TMA)
 
 <h3><samp>Stacks:</samp></h3>
 
