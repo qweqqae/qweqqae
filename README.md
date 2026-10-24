@@ -2,7 +2,7 @@
 
 <samp>im 16 years old</samp>
 
-<p><samp>I love making web apps and interactive experiences.</samp></p>
+<p><samp>Love making web apps and interactive experiences.</samp></p>
 
 <h3><samp>Stacks:</samp></h3>
 
@@ -25,6 +25,3 @@
 
 <samp>English: B1</samp>
 
----
-
-[![Contact me on Telegram](https://img.shields.io/badge/Contact_me_on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/byebakov)
