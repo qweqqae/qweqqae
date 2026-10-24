@@ -2,7 +2,7 @@
 
 <samp>im 16 years old</samp>
 
-<p><samp>Love making web apps and interactive experiences.</samp></p>
+<p><samp>Love making web apps</samp></p>
 
 <h3><samp>Stacks:</samp></h3>
 
